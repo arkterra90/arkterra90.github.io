@@ -1,2 +1,3 @@
-# kuehn.github.io
-Jeremy Kuehn landing page
+Jeremy Kuehn resume page
+
+Uses bootstrap and a free theme for web dev of a static site.
